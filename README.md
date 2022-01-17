@@ -29,7 +29,9 @@ a high chance of a heart attack can put him at risk. The F-score is a measure of
 and recall of the test.
 
 precision = TP / (TP + FP)
+
 recall = TP / (TP + FN)
+
 f1-score = (2 * precision * recall) / precision + recall
 
 ## 4. Analysis

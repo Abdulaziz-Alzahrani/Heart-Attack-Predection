@@ -68,6 +68,7 @@ the hyperparameters used for each model:
 ####    a) Logistic Regression:
             Confusion matrix:
 ![alt text](Model/model-0/model.png?raw=true)
+            
             Metrics:
 
                 accuracy: 0.74
@@ -80,6 +81,7 @@ the hyperparameters used for each model:
 ####    b) SVC:
             Confusion matrix:
 ![alt text](Model/model-1/model.png?raw=true)
+            
             Metrics:
 
                 accuracy: 0.74
@@ -92,7 +94,8 @@ the hyperparameters used for each model:
 ####    c) KNN:
             Confusion matrix:
 ![alt text](Model/model-2/model.png?raw=true)
-            Metrics:
+           
+           Metrics:
 
                 accuracy: 0.67
                 precision: 0.61
@@ -104,7 +107,8 @@ the hyperparameters used for each model:
 ####    d) Random Forest:
             Confusion matrix:
 ![alt text](Model/model-3/model.png?raw=true)
-            Metrics:
+           
+           Metrics:
 
                 accuracy: 0.80
                 precision: 0.73
